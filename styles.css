@@ -1,0 +1,14 @@
+body {
+  font-family: Jetbrains Mono;
+  background-image: url(github.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.main-text {
+
+  margin: 20px;
+  text-align: center;
+
+}
